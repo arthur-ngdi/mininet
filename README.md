@@ -1,1 +1,4 @@
-# mininet
+# C115 - mininet
+
+ARTHUR FERREIRA | GEC | 1762 | C115-L2
+PEDRO BOREM | GEC | 1720 | C115-L1
